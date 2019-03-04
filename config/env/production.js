@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
      onlyAllowOrigins: [
-       'https://nn-parser.herokuapp.com'
+       'https://financialparser.herokuapp.com'
     //   'https://example.com',
     //   'https://staging.example.com',
      ],
